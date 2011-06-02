@@ -10,9 +10,8 @@ pywebp is a yet another libwebp_ wrapper for Python.
 
 Install
 -------
-+ download from github
-+ *cd pywebp*
-+ python setup.py install
+
+    pip install git+http://github.com/hhatto/pywebp.git#egg=pywebp
 
 
 Require
